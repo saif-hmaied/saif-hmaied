@@ -1,12 +1,12 @@
 # Hi, I'm Saif Hmaied 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=460&lines=Computer+Science+Student;Competitive+Programmer;ACPC+2026+Finalist;C%2B%2B+Systems+Developer" alt="Computer Science Student, Competitive Programmer, ACPC 2026 Finalist, C++ Systems Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=460&lines=Computer+Science+Student" alt="Computer Science Student" />
 </div>
 
 ## About Me
 
-I'm a **Computer Science student** at the National School of Computer Science (ENSI) in Tunisia. I like to understand how things work by building them from scratch, such as an EDA tool. Most of my free time goes into **competitive programming**.
+I'm a **Computer Science student** at the National School of Computer Science (ENSI) in Tunisia. I like to understand how things work by building them from scratch. Most of my free time goes into **competitive programming**.
 
 - ⚙️ Interested in **systems programming**, **modern C++** and **algorithms**
 
