@@ -6,21 +6,9 @@
 
 ## About Me
 
-I'm a **Computer Science student** at the National School of Computer Science (ENSI) in Tunisia. I like to understand how things work by building them from scratch: STL containers, a file system, an EDA tool. Most of my free time goes into **competitive programming**.
+I'm a **Computer Science student** at the National School of Computer Science (ENSI) in Tunisia. I like to understand how things work by building them from scratch, such as an EDA tool. Most of my free time goes into **competitive programming**.
 
-- 🏆 **ACPC 2026 Finalist**, competing this December
-- 🥈 **2nd place at TCPC 2026** with team *Lampa Lampa*
 - ⚙️ Interested in **systems programming**, **modern C++** and **algorithms**
-
-## Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [**gatesim**](https://github.com/saif-hmaied/gatesim) | Finds design bugs in gate-level Verilog circuits (multi-driven nets, undriven wires, combinational loops), simulates them and runs static timing analysis | C++20, CMake |
-| [**memfs**](https://github.com/saif-hmaied/memfs) | In-memory file system with a Unix-like shell, built around polymorphism and manual memory management | C++20, CMake |
-| [**cpp-containers-from-scratch**](https://github.com/saif-hmaied/cpp-containers-from-scratch) | STL-style containers built on raw memory; `Set` and `PriorityQueue` run on a dynamic segment tree | C++ |
-| [**cp-templates**](https://github.com/saif-hmaied/cp-templates) | My competitive programming library: segment trees, NTT, Aho–Corasick, SCC, bridge tree, LCA and more | C++ |
-| [**Graph-QA-Pipeline**](https://github.com/saif-hmaied/Graph-QA-Pipeline) | Subgraph retrieval pipeline with a GNN + LLaMA-7B model for knowledge graph question answering (71.7% Hit Rate on WebQSP) | Python, PyTorch |
 
 ## Tech Stack
 
@@ -40,12 +28,6 @@ I'm a **Computer Science student** at the National School of Computer Science (E
 
 - 🏆 **Finalist**: ACPC 2026, Arab Collegiate Programming Championship (December 2026)
 - 🥈 **2nd place**: TCPC 2026, Tunisian Collegiate Programming Contest (Team *Lampa Lampa*)
-
-## GitHub Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=saif-hmaied&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
 
 ## Connect with Me
 
